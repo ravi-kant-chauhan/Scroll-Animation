@@ -3,3 +3,9 @@
 * {
     box-sizing: border-box;
   }
+
+  body {
+    background-color: #efedd6;
+    font-family: 'Roboto', sans-serif;
+    
+  }
