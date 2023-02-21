@@ -38,5 +38,5 @@
   }
 
   .box:nth-of-type(even) {
-    transform: translateX(-40%);
+    transform: translateX(-400%);
   }
