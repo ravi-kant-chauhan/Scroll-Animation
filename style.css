@@ -38,10 +38,12 @@
     transition: transform 0.4s ease;
   }
 
+
   .box:nth-of-type(even) {
     transform: translateX(-400%);
   }
 
+  
   .box.show {
     transform: translateX(0);
   }
